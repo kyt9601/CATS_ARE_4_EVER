@@ -1,4 +1,4 @@
-
+<?php header('Content-type: text/html; charset=utf-8'); ?>
 <div class="col-6 col-s-9">
 
 <ul class="type2">
